@@ -4,6 +4,10 @@ public class Demo
 	{
 		System.out.println("Addition");
 	}
+	void name()
+	{
+		System.out.println("Manish");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Demo JAVA");
