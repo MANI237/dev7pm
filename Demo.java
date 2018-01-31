@@ -1,5 +1,9 @@
 public class Demo
 {
+	void add()
+	{
+		System.out.println("Addition");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Demo JAVA");
