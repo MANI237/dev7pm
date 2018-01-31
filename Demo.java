@@ -2,7 +2,7 @@ public class Demo
 {
 	void add()
 	{
-		System.out.println("Addition");
+		System.out.println("1Addition");
 	}
 	void name()
 	{
