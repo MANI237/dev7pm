@@ -3,5 +3,6 @@
 void main()
 {
 	printf("SAMPLE C");
+	printf("New");
 }
 
