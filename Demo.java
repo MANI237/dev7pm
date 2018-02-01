@@ -4,9 +4,11 @@ public class Demo
 	{
 		System.out.println("1Addition");
 	}
+
 	void name()
 	{
 		System.out.println("Manish");
+		System.out.println("He He");
 	}
 
 	void sub()
