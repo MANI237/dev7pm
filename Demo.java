@@ -8,6 +8,11 @@ public class Demo
 	{
 		System.out.println("Manish");
 	}
+
+	void sub()
+	{
+		a-b
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Demo JAVA");
